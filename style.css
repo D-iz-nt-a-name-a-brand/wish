@@ -56,7 +56,7 @@
     height:100%;
     transform:translateY(-100%);
     transition: all 0.8s;
-    color: #ffffff;
+    color: snow;
     text-align: center;
     display:flex;
     justify-content:center;
